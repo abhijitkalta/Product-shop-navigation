@@ -27,7 +27,9 @@
     "email-validator": "^1.0.5",
     "react": "^15.3.1",
     "react-dom": "^15.3.1",
-    "react-router": "^2.7.0"
+    "react-router": "^2.7.0",
+    "reflux": "^0.4.1",
+    "whatwg-fetch": "^1.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
